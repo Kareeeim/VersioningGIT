@@ -1,2 +1,1 @@
-"#Task Commit" 
-"lorem ipsum bla bla bla" 
+"Se ni mondo esitesse..." 
